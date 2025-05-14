@@ -1,3 +1,3 @@
-Just import this project as a maven project
-Add a valid JDK to the project
-Open TestTigerCard.java in testsrc/com.metrocard package and execute all test cases
+1. Just import this project as a maven project
+2. Add a valid JDK to the project
+3. Open TestTigerCard.java in testsrc/com.metrocard package and execute all test cases
