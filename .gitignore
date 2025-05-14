@@ -1,0 +1,10 @@
+# Example .gitignore for Java
+*.class
+*.jar
+*.war
+*.log
+target/
+bin/
+.idea/
+*.iml
+.DS_Store
